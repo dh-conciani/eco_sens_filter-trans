@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pt"><Esri><CreaDate>20200903</CreaDate><CreaTime>13505200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="e:\programas\arcgis_10_5\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20200903" Time="135052">ExtractByMask ALPSMLC30_S024W048_DSM.tif sp_porto_feliz_buffer C:\Users\Usuario2020\Desktop\collab_juliano\raster\ALOS_AW3D30_portofeliz.tif</Process></lineage></DataProperties></Esri></metadata>
